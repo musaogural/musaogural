@@ -1,4 +1,5 @@
-### 
+
+### Musa Oğural
 Someone who is able to use his talents and knowledge at the maximum level, to
 constantly improve them, to continue life-long learning without being behind
 the changing world, and to be an engineer who can add value to his
