@@ -1,5 +1,5 @@
-[<img align = "left"  width = "80px" 
-src = "https://github.com/musaogural/musaogural/blob/main/profile.jpg" />]
+[<img align = "left"  width = "80px" height = "80px"
+src = "https://github.com/musaogural/musaogural/blob/main/iconic%20photo.jpg" />]
 
 ## Musa Oğural
 Someone who is able to use his talents and knowledge at the maximum level, to
