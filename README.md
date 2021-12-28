@@ -1,5 +1,5 @@
 [<img align = "left"  width = "80px" 
-src = "https://octodex.github.com/images/steroidtocat.png" />]
+src = "https://github.com/musaogural/musaogural/blob/main/profile.jpg" />]
 
 ## Musa Oğural
 Someone who is able to use his talents and knowledge at the maximum level, to
