@@ -1,7 +1,6 @@
-[<img align = "left"  width = "60px" height = "80px"
-src = "https://github.com/musaogural/musaogural/blob/main/iconic_photo.jpg" />]
 
-## Musa Oğural
+
+# Musa Oğural
 Someone who is able to use his talents and knowledge at the maximum level, to
 constantly improve them, to continue life-long learning without being behind
 the changing world, and to be an engineer who can add value to his
