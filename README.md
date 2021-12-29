@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[Linkedin - musaogural]: https://www.linkedin.com/in/musaogural/
-[<img align = "left"  width = "50px" 
-src = "https://github.com/musaogural/musaogural/blob/main/linkedin%20logo_icon.ico" />] [Linkedin - musaogural]
+## Linkedin - musaogural : https://www.linkedin.com/in/musaogural/
+<img align = "left"  width = "50px" src = "https://github.com/musaogural/musaogural/blob/main/linkedin%20logo_icon.ico" />
+
